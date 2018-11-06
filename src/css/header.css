@@ -1,0 +1,9 @@
+@import 'index.css';
+header{
+    text-align:center;
+    color:#ffffff;
+    background:#323a4d;
+    height: 0.9rem;
+    font-size: 0.36rem;
+    line-height: 0.9rem;
+}
